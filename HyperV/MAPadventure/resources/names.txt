@@ -1,0 +1,20 @@
+Stanza di decontaminazione 1
+Stanza di decontaminazione 2
+Corridoio 1
+Dormitorio
+Magazzino
+Stanza di archiviazione
+Stanza robot 1
+
+Stanza robot 2
+Corridoio 2
+
+Ufficio
+Stanza di massima sicurezza
+
+Libreria 
+Laboratorio esperimenti 1
+Laboratorio esperimenti 2
+Giardino
+Sala di controllo
+Laboratorio di chimica

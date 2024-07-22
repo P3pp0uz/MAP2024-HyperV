@@ -1,0 +1,20 @@
+Ti ritrovi in una stanza con tanti armadietti, ti domandi cosa contengano ma non ti sembra di poterli aprire. Puoi andare verso Est per controllare il resto della stanza.
+Noti che uno degli armadietti è aperto e contiene delle particolari tute. A giudicare da queste e da altri meccanismi presenti, ipotizzi che sia una stanza di decontaminazione. Nella tuta sembra esserci qualcosa, osserva meglio. Vai a Nord per proseguire.
+Hai raggiunto il corridoio. Vedi tre porte: a Sud c'è quella da cui sei appena uscito, le altre due si trovano una a Est, e una a Nord solo che quest'ultima ti sembra rotta, è impossibile entrarci. 
+Ti trovi in una stanza molto particolare, noti degli strani letti e vari scaffali, il teletrasporto per tornare indietro si trova a Sud. Sarà meglio controllare la stanza. 
+Nella stanza non ci sono porte, ma solo una strana pedana a Nord che ti sembra essere un teletrasporto.
+Da questa stanza puoi spostarti a Sud utilizzando nuovamente il teletrasporto o attraverso le porte presenti. A Nord sembra esserci un corridoio, ad Est e ad Ovest delle porte. Quella ad Ovest sembra essere chiusa, forse dovresti trovare qualcosa per aprirla.
+La stanza è piena di robot e strani macchinari. Non hai mai visto niente di simile, sarà meglio curiosare in giro. Noti che a Nord c'è una stanza, ma è troppo in alto per raggiungerla.
+
+Sei riuscito a raggiugere la parte superiore della stanza. Di fronte a te ci sono diversi robot, posizionati uno accanto all'altro. Speri che nessun altro prenda vita all'improvviso... Andando a Sud puoi tornare indietro, ma non dimenticarti di controllare prima questa zona.
+Ti trovi nel corridoio, da qui puoi raggiungere due stanze. Puoi attraversare la porta che si trova ad Est oppure quella ad Ovest.
+
+Grazie alla luce della torcia riesci finalmente a guardarti intorno e capisci di essere in un ufficio. Sarà l'ufficio dello scienziato. Proseguendo verso Nord, inoltre, si può accedere ad un'altra stanza.
+Appena entri nella stanza noti davanti a te un'incredibile invenzione. Ti sarà sicuramente utile per proseguire.
+
+Ti trovi all'interno di una libreria. Ti sembra strano che una stanza come questa fosse chiusa e ti sembra ancora più strano che si tratti di un vicolo cieco. Forse puoi andare a Nord in qualche modo...
+Ti trovi all'interno di quello che sembra essere un laboratorio adibito a fare esperimenti di ogni tipo. Ci sono macchinari all'avanguardia, strumenti che non avevi mai visto e composti chimici sparsi ovunque. Proseguendo davanti, verso Nord, puoi osservare più attentamente gli scaffali.
+Nel mobile di fronte a te ci sono barattoli, flaconi, strumenti...tutto ciò che immagineresti in un laboratorio di questo tipo. Anche questa stanza è munita di un teletrasporto a Nord.
+Arrivi in un grande giardino, per un attimo ti sembra di essere uscito da quella struttura, ma presto ti rendi conto che anche il giardino in realtà è al chiuso. Si tratta di una specie di serra che potrebbe servire a creare composti nuovi con le piante. Noti una porta, a Nord, ti riporterebbe all'interno della struttura.
+Raggiungi una stanza piena di computer e strani pulsanti, sembra essere una sala di controllo. Ti accorgi di una porta ad Ovest, ma per aprirla è necessario inserire una password. 
+Ti ritrovi nell'ennesimo laboratorio, anche se è diverso da quelli visti fin'ora. Dalla sala di controllo hai appreso che questa è l'ultima stanza dell'edificio, qui si trova l'oggetto della tua lunga ricerca: l'HyperV. E' il momento di fare una scelta: con quale composto mischiare il potente virus, se con quello rosso o con quello blu. Quale scegli?
